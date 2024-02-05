@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "driver": "PostgreSQL",
+            "name": "car_dealership_db",
+            "connectString": "postgres://bfrbdpvi:yyDT1N-BQ1UVNbv3QCFeddquYPPCSZZR@jelani.db.elephantsql.com/bfrbdpvi"
+        }
+    ]
+}
